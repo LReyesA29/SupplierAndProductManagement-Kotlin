@@ -1,0 +1,3 @@
+SUP01;Distribuidora Central;Bogotá;Calle 10 #12-34;3101234567;central@proveedores.com;3
+SUP02;Alimentos El Buen Sabor;Tunja;Cra 8 #45-10;3119876543;buen.sabor@proveedores.com;5
+SUP03;TecnoSogamoso;Sogamoso;Av 1 #20-05;3005558899;contacto@tecnosogamoso.com;2

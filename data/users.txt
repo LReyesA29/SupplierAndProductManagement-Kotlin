@@ -1,0 +1,2 @@
+Reyes;luis123;Diga hola;hola
+Luis;Reyes123;Diga adios;adios
